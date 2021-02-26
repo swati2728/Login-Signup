@@ -54,14 +54,3 @@ elif user=="2":
         print("invalid User_Name")
 
 
-#   var user_name = readlinesync.question("Enter Your Username for Login:-")
-#     var user_password = readlinesync.question("Enter Your Password For Login:-")
-#     fs.readFile("data_store.json",(err,data)=>{
-#         // console.log(data)
-#         for(i of data){
-#             if(i.user_name == user_name && i.password1 == user_password){
-#                 console.log("congrats",user_name,"you have login succesfully")
-#             }else{
-#                 console.log("Invaild Username And Password..try again")
-#             }
-#         }
